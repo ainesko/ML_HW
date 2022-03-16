@@ -16,7 +16,7 @@
 
 # HW_4 
 
-Ссылка на Google Colab:
+Ссылка на Google Colab: https://colab.research.google.com/drive/1HHenq4xuUDYc7GE_dKSDPyBLwOq6Y-8h?usp=sharing
 
 # HW_5 
 
