@@ -21,3 +21,8 @@
 # HW_5 
 
 Ссылка на Google Colab: https://colab.research.google.com/drive/1Jms-BM0JjMOVQ6vawZUsotlq7ESYFiMr?usp=sharing
+
+
+# HW_6 
+
+Ссылка на Google Colab: https://colab.research.google.com/drive/1uhxmnD7Tcydckc5tMRie32ZX8SP_4dll?usp=sharing
