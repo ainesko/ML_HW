@@ -22,6 +22,10 @@
 
 Ссылка на Google Colab: https://colab.research.google.com/drive/1Jms-BM0JjMOVQ6vawZUsotlq7ESYFiMr?usp=sharing
 
+# HW_5 
+
+Ссылка на Google Colab: https://colab.research.google.com/drive/1eLoK3KLxONnPy2s2s6_OAFONfTny0OyZ?usp=sharing
+
 
 # Практика 1 
 
