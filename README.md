@@ -30,3 +30,8 @@
 # Практика 1 
 
 Ссылка на Google Colab: https://colab.research.google.com/drive/1uhxmnD7Tcydckc5tMRie32ZX8SP_4dll?usp=sharing
+
+
+# Практика 2
+
+Ссылка на Google Colab: https://colab.research.google.com/drive/1Gnwtbrz2RWmJ-bO0j0drOfcP4ADog2yn?usp=sharing
