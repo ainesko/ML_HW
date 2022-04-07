@@ -34,4 +34,4 @@
 
 # Практика 2
 
-Ссылка на Google Colab: https://colab.research.google.com/drive/1uhxmnD7Tcydckc5tMRie32ZX8SP_4dll?usp=sharing
+Ссылка на Google Colab: https://colab.research.google.com/drive/1rxda4RmjGuabMABI-pGHQ2dh6WbAalIZ?usp=sharing
