@@ -35,3 +35,10 @@
 # Практика 2
 
 Ссылка на Google Colab: https://colab.research.google.com/drive/1rxda4RmjGuabMABI-pGHQ2dh6WbAalIZ?usp=sharing
+
+
+# Практика 3
+
+На Google Colab отработаны начальные данные и только одно улучшение (latent size). В репозитории загружен ноутбук с двумя улучшениями, который отсылается и на ноутбук колаба (извините, пришлось, чтобы успеть к дедлайну).
+
+Ссылка на Google Colab: https://colab.research.google.com/drive/1DQLbejC1h4KU5zStQ2GdXzQAuot837CP?usp=sharing
