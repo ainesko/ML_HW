@@ -39,6 +39,10 @@
 
 # Практика 3
 
-На Google Colab отработаны начальные данные и только одно улучшение (latent size). В репозитории загружен ноутбук с двумя улучшениями, который отсылается и на ноутбук колаба (извините, пришлось, чтобы успеть к дедлайну).
+На Google Colab отработаны начальные данные и только одно улучшение (latent size)
 
 Ссылка на Google Colab: https://colab.research.google.com/drive/1DQLbejC1h4KU5zStQ2GdXzQAuot837CP?usp=sharing
+
+Ноутбук с двумя улучшениями (создан в жупитере, загружен в колаб), который отсылается и на первый ноутбук колаба (извините, пришлось, чтобы успеть к дедлайну).
+
+https://colab.research.google.com/drive/1ZiHs0IFVQhRAB0Yx--VaoZoxu6lIiq3A?usp=sharing
