@@ -46,3 +46,9 @@
 Ноутбук с двумя улучшениями (создан в жупитере, загружен в колаб), который отсылается и на первый ноутбук колаба (извините, пришлось, чтобы успеть к дедлайну).
 
 https://colab.research.google.com/drive/1ZiHs0IFVQhRAB0Yx--VaoZoxu6lIiq3A?usp=sharing
+
+
+
+# Практика 4
+
+Ссылка на Google Colab: https://colab.research.google.com/drive/17GATKm4hgb6BbmofP7JcZX61iiQoLBpM?usp=sharing
